@@ -20,17 +20,17 @@ global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
 global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
 global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['0786802371'] //ur owner number
-global.ownername = "kaveesha" //ur owner name
+global.owner = ['0764470310'] //ur owner number
+global.ownername = "𝙥𝙖𝙗𝙖𝙨𝙖𝙧𝙖 𝙢𝙖𝙡𝙞𝙣𝙙𝙖💕" //ur owner name
 global.ytname = "YT: Dark" //ur yt chanel name
 global.socialm = "GitHub: Dark" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.session = " " //session Id
+global.session = "N2ZzMWhyYkE= " //session Id
 global.ownernomer = "94786802371" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['94786802371'] //ur premium number
+global.premium = ['94764470310'] //ur premium number
 global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
